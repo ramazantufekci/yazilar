@@ -1,12 +1,12 @@
 # Liste
 - Perçin
 
-[ ] Bilgisayarının genel bakımını yap
+[x] Bilgisayarının genel bakımını yap
 
-[ ] Cpu termal macununu kontrol et
+[x] Cpu termal macununu kontrol et
 
-[ ] Disk hatalarını ve kullanımını rapor et
+[x] Disk hatalarını ve kullanımını rapor et
 
 - Cımbız
 
-[ ] Lisanslı uygulamaların ayarlarını ve güncellemelerini yap
+[] Lisanslı uygulamaların ayarlarını ve güncellemelerini yap
