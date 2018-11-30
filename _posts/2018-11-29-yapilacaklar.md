@@ -9,4 +9,4 @@
 
 - Cımbız
 
-[] Lisanslı uygulamaların ayarlarını ve güncellemelerini yap
+[x] Lisanslı uygulamaların ayarlarını ve güncellemelerini yap
